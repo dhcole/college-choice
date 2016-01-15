@@ -1,6 +1,5 @@
 # College Scorecard
 
-
 A website that allows students (high school and adult) and those who support them (parents, guidance counselors)
 to not only search among colleges to find schools that would meet their desires, but also encourage them to consider
 "value" factors, be exposed to schools with better outcomes, and allow users to compare and contrast schools across
